@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# 💫 About Me: Data enthusiast with a passion for urban analytics.
 I'm working on a project with SQL, PYTHON and TABLEAU<br>
 
 
