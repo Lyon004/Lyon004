@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me: Data enthusiast with a passion for urban analytics.
+# 💫 Data enthusiast with a passion for urban analytics.
 
 
 
